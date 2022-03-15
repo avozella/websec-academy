@@ -1,7 +1,7 @@
 # Lab 1
 
 ## SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
-#
+
 ## Excercise: 
 
 This lab contains an SQL injection vulnerability in the product category filter. When the user selects a category, the application carries out an SQL query like the following:
@@ -16,7 +16,9 @@ To solve the lab, perform an SQL injection attack that causes the application to
 Level: Apprendice
 
 Reference: https://portswigger.net/web-security/sql-injection
-#
+
+## Context
+
 ## Solution
 
 Select one category to display the list of products, making the url redirect to something like this:
