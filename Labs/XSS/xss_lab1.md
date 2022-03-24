@@ -25,5 +25,5 @@ If we intercept the request, we'll see the payload reflected within the response
 
 ## Credits
 
-+ @avozella
-+ @rootsec
++ [avozella](https://github.com/avozella)
++ [irootsec](https://github.com/irootsec)
